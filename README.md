@@ -3,6 +3,23 @@ ___
 
 My [profile](https://www.codewars.com/users/FargoPVE) on CodeWars.com
 ___
+# 6kyu Solutions
+| Kata(s)                                                                                                                                  | CW Link                                                             |
+|:-----------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
+| [Array.diff](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/array_diff.md)                          | [link](https://www.codewars.com/kata/523f5d21c841566fde000009)      |
+| [Break camelCase](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/break_camel_case.md)                          | [link](https://www.codewars.com/kata/5208f99aee097e6552000148)      |
+| [Delete occurrences of an element if it occurs more than n times](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/delete_occurrences_of_an_element_if_it_occurs_more_than_n_times.md)                          | [link](https://www.codewars.com/kata/554ca54ffa7d91b236000023)      |
+| [Detect Pangram](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/detect_pangram.md)                          | [link](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)      |
+| [Does my number look big in this?](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/does_my_number_look_big_in_this.md)                          | [link](https://www.codewars.com/kata/5287e858c6b5a9678200083c)      |
+| [Duplicate Encoder](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/duplicate_encoder.md)                          | [link](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)      |
+| [Find the unique number](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/find_the_unique_number.md)                          | [link](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)      |
+| [Highest Scoring Word](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/highest_scoring_word.md)                          | [link](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)      |
+| [Playing with digits](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/playing_with_digits.md)                          | [link](https://www.codewars.com/kata/5552101f47fc5178b1000050)      |
+| [Replace With Alphabet Position](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/replace_with_alphabet_position.md)                          | [link](https://www.codewars.com/kata/546f922b54af40e1e90001da)      |
+| [Tribonacci Sequence](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/tribonacci_sequence.md)                          | [link](https://www.codewars.com/kata/556deca17c58da83c00002db)      |
+| [Unique In Order](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/unique_In_order.md)                          | [link](https://www.codewars.com/kata/54e6533c92449cc251001667)      |
+| [Your order, please](https://github.com/FargoPVE/codewars_solution_python/blob/main/6kyuKata/your_order_please.md)                          | [link](https://www.codewars.com/kata/55c45be3b2079eccff00010f)      |
+___
 
 # 7kyu Solutions
 | Kata(s)                                                                                                                                  | CW Link                                                             |
