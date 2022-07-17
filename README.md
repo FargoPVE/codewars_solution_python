@@ -4,6 +4,29 @@ ___
 My [profile](https://www.codewars.com/users/FargoPVE) on CodeWars.com
 ___
 
+# 7kyu Solutions
+| Kata(s)                                                                                                                                  | CW Link                                                             |
+|:-----------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------|
+| [Descending Order](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/descending_order.md)                          | [link](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)      |
+| [Disemvowel Trolls](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/disemvowel_trolls.md)                        | [link](https://www.codewars.com/kata/52fba66badcd10859f00097e)      |
+| [Exes and Ohs](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/exes_and_ohs.md)                                  | [link](https://www.codewars.com/kata/55908aad6620c066bc00002a)      |
+| [Find all pairs](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/find_all_pairs.md)                              | [link](https://www.codewars.com/kata/5c55ad8c9d76d41a62b4ede3)      |
+| [Find the next perfect square!](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/find_the_next_perfect_square.md) | [link](https://www.codewars.com/kata/56269eb78ad2e4ced1000013)      |
+| [Get the Middle Character](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/get_the_middle_character.md)          | [link](https://www.codewars.com/kata/56747fd5cb988479af000028)      |
+| [Highest and Lowest](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/highest_and_lowest.md)                      | [link](https://www.codewars.com/kata/554b4ac871d6813a03000035)      |
+| [Isograms](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/isograms.md)                                          | [link](https://www.codewars.com/kata/54ba84be607a92aa900000f1)      |
+| [Mumbling](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/mumbling.md)                                          | [link](https://www.codewars.com/kata/5667e8f4e3f572a8f2000039)      |
+| [Number of People in the Bus](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/number_of_people_in_the_bus.md)    | [link](https://www.codewars.com/kata/5648b12ce68d9daa6b000099)      |
+| [Odd or Even?](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/odd_or_even.md)                              | [link](https://www.codewars.com/kata/5949481f86420f59480000e7)      |
+| [Ones and Zeros](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/ones_and_zeros.md)                          | [link](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)      |
+| [Printer Errors](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/printer_errors.md)                          | [link](https://www.codewars.com/kata/56541980fa08ab47a0000040)      |
+| [Reverse words](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/reverse_words.md)                          | [link](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4)      |
+| [Shortest Word](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/shortest_word.md)                          | [link](https://www.codewars.com/kata/57cebe1dc6fdc20c57000ac9)      |
+| [Square Every Digit](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/square_every_digit.md)                          | [link](https://www.codewars.com/kata/546e2562b03326a88e000020)      |
+| [String ends with?](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/string_ends_with.md)                          | [link](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)      |
+| [Sum of odd numbers](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/sum_of_odd_numbers.md)                          | [link](https://www.codewars.com/kata/55fd2d567d94ac3bc9000064)      |
+| [Sum of the first nth term of Series](https://github.com/FargoPVE/codewars_solution_python/blob/main/7kyuKata/sum_of_the_first_nth_term_of_series.md)                          | [link](https://www.codewars.com/kata/555eded1ad94b00403000071)      |
+___
 # 8kyu Solutions
 
 | Kata(s)                                                                                                                                                                  | CW Link                                                                  |
